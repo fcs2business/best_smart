@@ -51,3 +51,8 @@ erp-parent/erp-view/target/test-classes/db/init-schema.sql
 erp-parent/erp-view/target/test-classes/db/jdbc.properties
 erp-parent/erp-view/target/test-classes/logback-test.xml
 erp-parent/erp-model/target/
+erp-parent/erp-model/.settings/org.eclipse.core.resources.prefs
+erp-parent/erp-model/.settings/org.eclipse.wst.common.component
+erp-parent/erp-view/.settings/org.eclipse.core.resources.prefs
+erp-parent/erp-view/.settings/org.eclipse.wst.common.component
+erp-parent/erp-view/.settings/org.eclipse.wst.validation.prefs
