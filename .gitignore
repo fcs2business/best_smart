@@ -22,3 +22,8 @@ erp-parent/erp-model/target/maven-archiver/pom.properties
 erp-parent/erp-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 erp-parent/erp-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 erp-parent/erp-model/target/test-classes/activejdbc_models.properties
+erp-parent/erp-view/target/test-classes/db/init-schema.sql
+erp-parent/erp-view/target/m2e-wtp/web-resources/META-INF/maven/br.com.fabriciocs.erp.view/erp-view/pom.xml
+erp-parent/erp-model/.settings/
+erp-parent/erp-infra/target/
+erp-parent/erp-view/.settings/
