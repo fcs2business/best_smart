@@ -50,3 +50,4 @@ erp-parent/erp-view/target/test-classes/br/com/fabriciocs/erp/view/controller/Cr
 erp-parent/erp-view/target/test-classes/db/init-schema.sql
 erp-parent/erp-view/target/test-classes/db/jdbc.properties
 erp-parent/erp-view/target/test-classes/logback-test.xml
+erp-parent/erp-model/target/
