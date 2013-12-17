@@ -1,0 +1,5 @@
+
+<weld:scam>
+	<weld:include name="*" />
+	<weld:exclude name="com.google.common.collect.**" />
+</weld:scam>
